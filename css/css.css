@@ -17,3 +17,9 @@ body{
 #Header h2{
     display:inline;
 }
+
+#post{
+    background-color: darkslategrey;
+    margin-left: 100px;
+    margin-right: 100px;
+}
