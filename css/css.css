@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+#Header{
+    background-color: darkgray;
+    text-align: left;
+    color: aliceblue;
+    border: 2px solid gray;
+    padding: 10px;
+}
+#Header h1{
+    display:inline;
+    padding-left: 40px;
+}
+#Header h2{
+    display:inline;
+}
+
+#post{
+    background-color: darkslategrey;
+    margin-left: 100px;
+    margin-right: 100px;
+}
