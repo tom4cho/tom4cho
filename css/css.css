@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+#Header{
+    text-align: center;
+    color: darkslategray;
+    border: 2px solid gray;
+}
