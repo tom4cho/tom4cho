@@ -4,7 +4,16 @@ body{
     font-weight: bold;
 }
 #Header{
-    text-align: center;
-    color: darkslategray;
+    background-color: darkgray;
+    text-align: left;
+    color: aliceblue;
     border: 2px solid gray;
+    padding: 10px;
+}
+#Header h1{
+    display:inline;
+    padding-left: 40px;
+}
+#Header h2{
+    display:inline;
 }
