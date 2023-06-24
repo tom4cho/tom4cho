@@ -17,6 +17,10 @@ body{
 #Header h2{
     display:inline;
 }
+#Header p{
+    padding-left: 40px;
+    color: black;
+}
 
 #post{
     background-color: darkslategrey;
