@@ -22,4 +22,15 @@ body{
     background-color: darkslategrey;
     margin-left: 100px;
     margin-right: 100px;
+    margin-top: 3px;
+    padding: 10px;
+    
+}
+#post .historias{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: darkblue;
+    color: aqua;
 }
